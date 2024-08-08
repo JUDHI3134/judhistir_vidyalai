@@ -51,5 +51,11 @@ Fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSeACdInJitqQ8hncrJdsTY
 - Efficiency of code optimization techniques.
 - Quality and comprehensiveness of code documentation.
 
+## changes that are done
+- fix carousel scrolling UI
+- Top Navbar Sticky during scrolling
+- implement functionality to Load more posts upon the clicking the "Load more" button
+- display username and email in each post
+
 
 
